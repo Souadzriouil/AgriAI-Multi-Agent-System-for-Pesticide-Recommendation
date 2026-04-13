@@ -283,7 +283,7 @@ This project is for **educational and portfolio purposes**.
 ## 👩‍💻 Author
 
 **Souad Zriouil**  
-AI Engineer · Data Scientist · NLP & LLM
+AI Engineer | Data Scientist | Machine Learning | NLP | LLM  
 
 [![GitHub](https://img.shields.io/badge/GitHub-Souadzriouil-black?logo=github)](https://github.com/Souadzriouil)
 
